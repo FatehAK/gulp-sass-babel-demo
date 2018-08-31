@@ -1,0 +1,8 @@
+html body {
+  background-color: crimson; }
+
+html h6 {
+  -webkit-transform: rotateX(30deg);
+          transform: rotateX(30deg); }
+
+/*# sourceMappingURL=style1.css.map */

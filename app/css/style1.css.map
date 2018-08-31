@@ -1,0 +1,1 @@
+{"version":3,"sources":["style1.scss"],"names":[],"mappings":"AAAA;EAEQ,0BAAyB,EAC5B;;AAHL;EAKQ,kCAAyB;UAAzB,0BAAyB,EAC5B","file":"style1.css","sourcesContent":["html {\r\n    body {\r\n        background-color: crimson;\r\n    }\r\n    h6 {\r\n        transform: rotateX(30deg);\r\n    }\r\n}\r\n"]}
